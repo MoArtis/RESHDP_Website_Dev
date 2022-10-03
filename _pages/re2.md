@@ -89,39 +89,16 @@ backgrounds:
   - /RE2_bgs/ROOM_60F_04
 
 downloads:
-   - caption: "1.2 Pack (Emulator included)"
+   - caption: "RE2SHDP 2.0 Pack for Dolphin (Emulator included)"
      buttons:
-      - label: "Mega"
-        url: "https://mega.nz/file/LVRXlCba#4enNY48ZnP79PVWDpDIBeqkMjYaSWDc6uNrZ4-0scDw"
-      - label: "MediaFire"
-        url: "https://www.mediafire.com/file/r5pbhqs6p34p28m/RE2SHDP-1.2.zip/file"
-        color: "facebook"
-      - label: "GDrive"
-        url: "https://drive.google.com/uc?id=1q23weqLE_Dl1o5a5besIgCCA0QuD6DK9&export=download"
-        color: "gdrive"
-   # - caption: "1.1 to 1.2 Patch"
-     # buttons:
-      # - label: "Mega"
-        # url: "https://mega.nz/file/fVYh1QjJ#1Bk61iHkz2gtXaeoIRdL1x-GKkVW2F4UKFOFBnl9RVw"
-      # - label: "MediaFire"
-        # url: "https://www.mediafire.com/file/ogx88qgid14vr7f/RE2SHDP_-_1.1_to_1.2_patch.zip/file"
-        # color: "facebook"
-      # - label: "GDrive"
-        # url: "https://drive.google.com/uc?id=1LBTAIx2TG0EHnx5bu33Wile0h-99MnYp&export=download"
-        # color: "gdrive"
-   - caption: "FMV Pack (Optional)"
+      - label: "ModDb"
+        url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-dolphin-windows"
+      # - label: "FMV Pack"
+        # url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/fmv-pack-for-re2shdp"
+   - caption: "RE2SHDP 2.0 Pack for Classic Rebirth"
      buttons:
-      - label: "Mega"
-        url: "https://mega.nz/#!OJgBkQqZ!1tRXRZl5Ub4N7MgDQbJaJhujj5PD-3nJjicsMCCRWt4"
-      - label: "MediaFire"
-        url: "https://www.mediafire.com/file/haxz7vl93a3lcmk/RE2SHDP_-_FMVs_Only.zip/file"
-        color: "facebook"
-      - label: "GDrive"
-        url: "https://drive.google.com/u/3/uc?id=1P6cS_o721LYSyEdpewJ1niJuI0kopbQS&export=download"
-        color: "gdrive"
-      - label: "More info"
-        url: "#fmv-pack"
-        color: "info"
+      - label: "ModDb"
+        url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-pc-sourcenext"
 
 #Header
 header:
