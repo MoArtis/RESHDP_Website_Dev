@@ -89,13 +89,13 @@ backgrounds:
   - /RE2_bgs/ROOM_60F_04
 
 downloads:
-   - caption: "RE2SHDP 2.0 Pack for Dolphin (Emulator included)"
+   - caption: "2.0 Pack for Dolphin (Emulator included)"
      buttons:
       - label: "ModDb"
         url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-dolphin-windows"
       # - label: "FMV Pack"
         # url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/fmv-pack-for-re2shdp"
-   - caption: "RE2SHDP 2.0 Pack for Classic Rebirth"
+   - caption: "2.0 Pack for Classic Rebirth"
      buttons:
       - label: "ModDb"
         url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-pc-sourcenext"
