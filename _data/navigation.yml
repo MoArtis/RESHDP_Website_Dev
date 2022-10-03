@@ -1,0 +1,12 @@
+# main links
+main:
+    # - title: "The team"
+    #   url: /team/
+    # - title: "News"
+    #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    - title: "Resident Evil 1 (Stay tuned)"
+      url: /re2/
+    - title: "Resident Evil 2"
+      url: /re2/
+    - title: "Resident Evil 3"
+      url: /re3/
