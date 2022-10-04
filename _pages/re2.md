@@ -95,7 +95,7 @@ downloads:
         url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-pc-sourcenext"
    - caption: "2.0 Pack for Dolphin"
      buttons:
-     - label: "Dolphin"
+      - label: "Dolphin"
         url: "https://www.youtube.com/watch?v=N3HS0JmgM_U"
         color: "facebook"
       - label: "DDS Pack"
