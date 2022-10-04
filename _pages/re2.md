@@ -89,16 +89,22 @@ backgrounds:
   - /RE2_bgs/ROOM_60F_04
 
 downloads:
-   - caption: "2.0 Pack for Dolphin (Emulator included)"
-     buttons:
-      - label: "ModDb"
-        url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-dolphin-windows"
-      # - label: "FMV Pack"
-        # url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/fmv-pack-for-re2shdp"
    - caption: "2.0 Pack for Classic Rebirth"
      buttons:
       - label: "ModDb"
         url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-pc-sourcenext"
+   - caption: "2.0 Pack for Dolphin"
+     buttons:
+	  - label: "Dolphin"
+        url: "https://www.youtube.com/watch?v=N3HS0JmgM_U"
+		color: "facebook"
+      - label: "DDS Pack"
+        url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-dolphin-windows"
+	  - label: "PNG Pack"
+        url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-android"
+      - label: "FMV Pack"
+        url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/fmv-pack-for-re2shdp"
+		color: "info"
 
 #Header
 header:
