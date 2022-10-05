@@ -93,13 +93,15 @@ downloads:
      buttons:
       - label: "ModDb"
         url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-pc-sourcenext"
-   - caption: "2.0 Pack for Dolphin"
+   - caption: "2.0 Packs for Dolphin"
      buttons:
       - label: "Dolphin"
-        url: "https://www.youtube.com/watch?v=N3HS0JmgM_U"
+        url: "https://drive.google.com/file/d/1W-tUscEiKoZpYxFXasC25YZeSMpKXcq5/view?usp=sharing"
         color: "facebook"
       - label: "DDS Pack"
         url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-dolphin-windows"
+   - caption: "Optional Packs for Dolphin"
+     buttons:
       - label: "PNG Pack"
         url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-android"
         color: "gdrive"
