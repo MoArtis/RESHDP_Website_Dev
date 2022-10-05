@@ -204,7 +204,7 @@ You can't do that with the Dolphin pack. But you can hold the TAB key to speed u
 
 
 >**How to fix the "missing DLL" errors with Dolphin?**<br>
-Just install the x64 version of the Visual C++ redistributable. You can download it from here: https://go.microsoft.com/fwlink/?LinkId=746572
+Just install the x64 version of the Visual C++ redistributable. You can download it from here: <https://go.microsoft.com/fwlink/?LinkId=746572>
 {: .notice }
 
 
