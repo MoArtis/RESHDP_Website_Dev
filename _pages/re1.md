@@ -176,7 +176,7 @@ Our solution was to create a tool that analyzes the game data to **regenerate co
 
 No. And we would like to give you more details about the most obvious issues.
 
-![image-left](/img/RE2_perfect/text_issue.jpg){: .align-left}
+![image-left]({{ '/img/RE2_perfect/text_issue.jpg' | relative_url }}){: .align-left}
 **Neural networks upscaling is not magic.** The algorithm has an especially hard time with dark areas and RE games are clearly not games with the brightest and the most colorful backgrounds. Expect to see a lot of **"melting" artefacts** on dark corners and distant parts of the backgrounds.<br>
 Small texts will also end up being processed as melting garbage. We replaced them when the result was too distracting.
 
