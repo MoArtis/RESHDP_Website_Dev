@@ -52,16 +52,16 @@ gallery_do:
     image_path: /img/galleries/RE1_do/3dmodels_re1shdp_th.jpg
     alt: "RE1SHDP 3d Model textures"
     title: "Upscaled 3D model textures"
-  - url: /img/galleries/RE2_do/computer_re2shdp_f.jpg
-    image_path: /img/galleries/RE2_do/computer_re2shdp_th.jpg
+  - url: /img/galleries/RE1_do/computer_re1shdp_f.jpg
+    image_path: /img/galleries/RE1_do/computer_re1shdp_th.jpg
     alt: "RE1SHDP Computer"
     title: "Manually edited in-game screens"
   - url: /img/galleries/RE2_do/vfx_re2shdp_f.jpg
     image_path: /img/galleries/RE2_do/vfx_re2shdp_th.jpg
     alt: "RE1SHDP visual effects"
     title: "Improved visual effects"
-  - url: /img/galleries/RE2_do/inventory_portrait_re2shdp_f.jpg
-    image_path: /img/galleries/RE2_do/inventory_portrait_re2shdp_th.jpg
+  - url: /img/galleries/RE1_do/inventory_portrait_re1shdp_f.jpg
+    image_path: /img/galleries/RE1_do/inventory_portrait_re1shdp_th.jpg
     alt: "RE1SHDP inventory and portraits"
     title: "Upscaled menu elements and HR portraits."
 
@@ -194,13 +194,11 @@ Your feedbacks will help us to improve the quality of the pack.
 
 <div class="feature__wrapper"></div>
 
-# FMV Pack
+# FMV
 
-BLA BLA BLA 
+Our RE1 pack directly includes upscaled FMVs. No need to install an additional pack this time. 
 
-DO NO FORGET REPLACING ME 
-
-BLA BLA BLA
+On top of the regular videos, It features an optional Capcom logo, an alternative version of Jill's shark tank video and a fully redone credits sequence.
 
 {% include carousel_juxtapose.html name="fmvs" width=1000 images=page.fmvs prev_label="RE2 GC" next_label="RE2SHDP" comp_suffix="_original" img_format=".jpg" selectedIndex=0 %}
 

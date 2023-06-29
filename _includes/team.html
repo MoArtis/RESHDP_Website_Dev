@@ -6,7 +6,7 @@
     <div class="team-member">
         <span class="name">{{ member.name }}</span>
         <img alt="{{ member.name }}" src="{{ member.image | relative_url }}">
-        <span class="role">{{ member.role }}</span>
+        <!-- <span class="role">{{ member.role }}</span> -->
         {% for link in member.links %}
         <a href="{{ link.link }}" title="{{ link.link }}" class="btn btn--primary btn--x-large">
             {%- include fa n=link.icon -%}
@@ -15,6 +15,10 @@
     </div>
     {% endfor %}
 </figure>
+
+<p class="team-title text-center">
+    Extra hands
+</p>
 
 <figure class="team-content__inner-wrap">
     {% for member in site.data.team2 %}
