@@ -1,0 +1,16 @@
+- name: "Bserv"
+  image: /img/team/saeed_256.png
+  role: "Cool Stuff!"
+  excerpt: ""
+- name: "Xuru"
+  image: /img/team/saeed_256.png
+  role: "Awesome dude"
+  excerpt: ""
+- name: "Leigi"
+  image: /img/team/saeed_256.png
+  role: "3D Modeling?"
+  excerpt: ""
+- name: "Saeed"
+  image: /img/team/saeed_256.png
+  role: "Quality Assurance"
+  excerpt: ""
