@@ -180,12 +180,12 @@ No. And we would like to give you more details about the most obvious issues.
 **Neural networks upscaling is not magic.** The algorithm has an especially hard time with dark areas and RE games are clearly not games with the brightest and the most colorful backgrounds. Expect to see a lot of **"melting" artefacts** on dark corners and distant parts of the backgrounds.<br>
 Small texts will also end up being processed as melting garbage. We replaced them when the result was too distracting.
 
-![image-right](/img/RE2_perfect/mask_issue.jpg){: .align-right}
+![image-right]({{ '/img/RE2_perfect/mask_issue.jpg' | relative_url }}){: .align-right}
 Many original **mask textures don't line up perfectly** with their respective background texture. Thus some pixels which are not part of the foreground appear on top of the 3D models.<br>
 These issues are barely noticeable at such low resolution and on a CRT (And the game was intended to be displayed on a CRT like any game of that era).<br>
 But these issues can be very distracting at an high resolution and on a flatscreen. We touched up the worst offenders but thousands of man-hours is required to clean up everything.
 
-![image-left](/img/RE2_perfect/vectorization_issue.jpg){: .align-left}
+![image-left]({{ '/img/RE2_perfect/vectorization_issue.jpg' | relative_url }}){: .align-left}
 The full process to create this pack is quite complex and involve multiple tools through multiple steps: Game data analysis, PC to GameCube texture matching, analysis of mask special cases, mask alpha layers vectorization, texture upscaling, texture recreation... **Bugs are to be expected** with such process. So even if we carefully tested the pack during development, you will certainly encounter small unexpected issues.
 
 That being said, if you encounter such issues, have any problem with the pack or notice a big imperfection, don't hesitate to report it on [Github Issues <i class="fab fa-github"></i>](https://github.com/MoArtis/ResidentEvilSeamlessHdProject/issues).
