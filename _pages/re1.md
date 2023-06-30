@@ -63,7 +63,7 @@ gallery_do:
   - url: /img/galleries/RE1_do/inventory_portrait_re1shdp_f.jpg
     image_path: /img/galleries/RE1_do/inventory_portrait_re1shdp_th.jpg
     alt: "RE1SHDP inventory and portraits"
-    title: "Upscaled menu elements and HR portraits."
+    title: "Upscaled menu elements and HQ portraits."
 
 fmvs:
   - /RE1_fmvs/0
