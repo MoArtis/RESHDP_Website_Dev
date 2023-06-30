@@ -56,8 +56,8 @@ gallery_do:
     image_path: /img/galleries/RE1_do/computer_re1shdp_th.jpg
     alt: "RE1SHDP Computer"
     title: "Manually edited in-game screens"
-  - url: /img/galleries/RE2_do/vfx_re2shdp_f.jpg
-    image_path: /img/galleries/RE2_do/vfx_re2shdp_th.jpg
+  - url: /img/galleries/RE1_do/vfx_re1shdp_f.jpg
+    image_path: /img/galleries/RE1_do/vfx_re1shdp_th.jpg
     alt: "RE1SHDP visual effects"
     title: "Improved visual effects"
   - url: /img/galleries/RE1_do/inventory_portrait_re1shdp_f.jpg
@@ -73,6 +73,7 @@ fmvs:
   - /RE2_fmvs/FMV_LeonExplosion
 
 backgrounds:
+  - /RE1_bgs/ROOM_109_03
   - /RE1_bgs/ROOM_10B_02
   - /RE1_bgs/ROOM_20E_02
   - /RE1_bgs/ROOM_100_00
@@ -129,7 +130,7 @@ Please check the [FAQ](#frequently-asked-questions) before playing.
 
 # How the backgrounds look like?
 
-{% include carousel_juxtapose.html name="backgrounds" width=960 images=page.backgrounds prev_label="RE1 PC" next_label="RE1SHDP" comp_suffix="-1" img_format=".jpg" selectedIndex=0 %}
+{% include carousel_juxtapose.html name="backgrounds" width=1000 images=page.backgrounds prev_label="RE1 PC" next_label="RE1SHDP" comp_suffix="-1" img_format=".jpg" selectedIndex=0 %}
 
 <div class="feature__wrapper"></div>
 
@@ -206,7 +207,7 @@ On top of the regular videos, It features an optional Capcom logo, an alternativ
 
 # Video showcase
 
-{% include video id="XJJxVMWrdzA" provider="youtube" %}
+{% include video id="-nqH73D_nhg" provider="youtube" %}
 
 <div class="feature__wrapper"></div>
 
