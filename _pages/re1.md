@@ -40,8 +40,8 @@ gallery_dolphin:
     title: "Pre-configured and Portable"
 
 gallery_do:
-  - url: /img/galleries/RE2_do/bgs_masks_re2shdp_f.jpg
-    image_path: /img/galleries/RE2_do/bgs_masks_re2shdp_th.jpg
+  - url: /img/galleries/RE1_do/bgs_masks_re1shdp_f.jpg
+    image_path: /img/galleries/RE1_do/bgs_masks_re1shdp_th.jpg
     alt: "RE1SHDP Bgs and Masks"
     title: "Upscaled backgrounds with vectorized masks"
   - url: /img/galleries/RE1_do/bg_texts_re1shdp_f.jpg
@@ -66,11 +66,11 @@ gallery_do:
     title: "Upscaled menu elements and HR portraits."
 
 fmvs:
-  - /RE2_fmvs/FMV_Birkin
-  - /RE2_fmvs/FMV_LeonPistol
-  - /RE2_fmvs/FMV_Claire
-  - /RE2_fmvs/FMV_RPD
-  - /RE2_fmvs/FMV_LeonExplosion
+  - /RE1_fmvs/0
+  - /RE1_fmvs/1
+  - /RE1_fmvs/2
+  - /RE1_fmvs/3
+  - /RE1_fmvs/4
 
 backgrounds:
   - /RE1_bgs/ROOM_109_03
@@ -140,6 +140,21 @@ Please check the [FAQ](#frequently-asked-questions) before playing.
 
 <div class="feature__wrapper"></div>
 
+# FMV
+
+Our RE1 pack directly includes upscaled FMVs. No need to install an additional pack this time. 
+
+On top of the regular videos, It features an optional Capcom logo, an alternative version of Jill's shark tank video and a fully redone credits sequence.
+
+{% include carousel_juxtapose.html name="fmvs" width=1000 images=page.fmvs prev_label="RE1 PC" next_label="RE1SHDP" comp_suffix="_og" img_format=".jpg" selectedIndex=0 %}
+
+<div class="feature__wrapper"></div>
+
+# Video showcase
+
+{% include video id="-nqH73D_nhg" provider="youtube" %}
+
+<div class="feature__wrapper"></div>
 
 # Frequently Asked Questions
 
@@ -195,24 +210,3 @@ Your feedbacks will help us to improve the quality of the pack.
 
 <div class="feature__wrapper"></div>
 
-# FMV
-
-Our RE1 pack directly includes upscaled FMVs. No need to install an additional pack this time. 
-
-On top of the regular videos, It features an optional Capcom logo, an alternative version of Jill's shark tank video and a fully redone credits sequence.
-
-{% include carousel_juxtapose.html name="fmvs" width=1000 images=page.fmvs prev_label="RE2 GC" next_label="RE2SHDP" comp_suffix="_original" img_format=".jpg" selectedIndex=0 %}
-
-<div class="feature__wrapper"></div>
-
-# Video showcase
-
-{% include video id="-nqH73D_nhg" provider="youtube" %}
-
-<div class="feature__wrapper"></div>
-
-<!-- # Comparison Gallery
-
-{% include carousel_juxtapose.html name="backgrounds" width=960 images=page.backgrounds prev_label="Original incl. masks" next_label="RE2SHDP" comp_suffix="_altMaskSource" img_format=".jpg" selectedIndex=10 %}
-
-<div class="feature__wrapper"></div> -->
