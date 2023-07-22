@@ -91,7 +91,7 @@ downloads:
    - caption: "1.0 Pack for Classic Rebirth"
      buttons:
       - label: "ModDb"
-        url: "https://www.moddb.com/mods/resident-evil-2-seamless-hd-project/downloads/resident-evil-2-seamless-hd-project-for-pc-sourcenext"
+        url: "https://www.moddb.com/mods/resident-evil-seamless-hd-project"
 
 #Header
 header:
@@ -126,7 +126,11 @@ Please check the [FAQ](#frequently-asked-questions) before playing.
 
 <div class="feature__wrapper"></div>
 
-<!-- </div> -->
+# Installation guide
+
+{% include video id="s4Q7p0GLN-s" provider="youtube" %}
+
+<div class="feature__wrapper"></div>
 
 # How the backgrounds look like?
 
