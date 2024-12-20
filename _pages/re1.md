@@ -122,13 +122,8 @@ Please check the [FAQ](#frequently-asked-questions) before playing.
 {: .notice }
 
 # Downloads
+
 {% include downloads.html downloads=page.downloads %}
-
-<div class="feature__wrapper"></div>
-
-# Installation guide
-
-{% include video id="7DJ8TqxiWDo" provider="youtube" %}
 
 <div class="feature__wrapper"></div>
 
